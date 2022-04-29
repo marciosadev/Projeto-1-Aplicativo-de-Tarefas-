@@ -1,3 +1,3 @@
 # Aplicativo de Tarefas
-Python Django + React
+Python Django + React: 
 Um pequeno aplicativo de Tarefas utilizando Django e React
